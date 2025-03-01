@@ -11,7 +11,7 @@ I'm **Arpit Kumar Yadav**, a passionate **DevOps Engineer** with expertise in **
 
 ### 📈 Achievements & Certifications:  
 🏆 **Global Rank 157** – CodeChef (Feb Long Challenge)  
-📜 **Microsoft L-100, AZ-900, Terraform, Docker & Kubernetes**  
+📜 **Microsoft L-100**  
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arpitcyber@gmail.com)
