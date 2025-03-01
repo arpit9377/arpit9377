@@ -1,26 +1,17 @@
-# 💫 About Me:
-👋 Hi there! I'm Arpit, a passionate Frontend Developer with a focus on React and JavaScript.
+## 👋 About Me  
 
-🚀 As a developer, I thrive on turning creative ideas into user-friendly and engaging web applications. My journey in the world of web development began with a curiosity for the ever-evolving landscape of technology. Over the years, I've honed my skills to become proficient in building dynamic and responsive user interfaces using React.
+I'm **Arpit Kumar Yadav**, a passionate **DevOps Engineer** with expertise in **cloud computing, automation, and infrastructure management**. I specialize in deploying scalable and secure applications using **Azure, AWS, Docker, Kubernetes, and CI/CD pipelines**.  
 
-💡 I'm dedicated to staying up-to-date with the latest trends and best practices in the world of web development. Whether it's crafting pixel-perfect designs or optimizing performance for a seamless user experience, I'm always up for the challenge.
+### 🔧 Skills & Expertise:  
+🚀 **Cloud Platforms:** Azure (Function Apps, App Service, Logic Apps), AWS (EKS, Lambda, EC2, S3)  
+🛠 **CI/CD & Automation:** Jenkins, Azure DevOps, GitHub Actions, Terraform  
+📦 **Containerization & Orchestration:** Docker, Kubernetes, Helm  
+📜 **Scripting & IaC:** Bash, PowerShell, Python, ARM Templates  
+📊 **Monitoring & Security:** Prometheus, Grafana, SonarQube, Trivy  
 
-🌟 Here's a glimpse of what I bring to the table:
-
-Expertise in React, JavaScript, and related libraries and tools.
-A strong foundation in front-end technologies such as HTML5, CSS3, and modern CSS frameworks.
-A commitment to writing clean, maintainable code that's well-documented.
-A passion for collaborating with cross-functional teams to deliver exceptional user experiences.
-📚 I believe that learning is a lifelong journey, and I'm constantly exploring new technologies and methodologies to push the boundaries of what can be achieved on the web.
-
-🌐 You can find some of my work right here on my GitHub, where I share projects, code snippets, and open-source contributions. Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss a project!
-
-📫 Let's connect! You can reach me on LinkedIn or Twitter. I'm always open to connecting with fellow developers, sharing knowledge, and embracing new opportunities in the exciting world of frontend development.
-
-🚴 When I'm not coding, you can often find me exploring the great outdoors on my bike or immersing myself in a good book. I believe in a healthy work-life balance to keep the creativity flowing.
-
-Thanks for stopping by, and I look forward to connecting with you and exploring the world of web development together!
-
+### 📈 Achievements & Certifications:  
+🏆 **Global Rank 157** – CodeChef (Feb Long Challenge)  
+📜 **Microsoft L-100, AZ-900, Terraform, Docker & Kubernetes**  
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arpitcyber@gmail.com)
